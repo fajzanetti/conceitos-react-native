@@ -27,7 +27,7 @@ Nesse desafio, você deve criar uma aplicação para treinar o que você aprende
 
 Agora você deve continuar desenvolvendo a aplicação que irá armazenar repositórios do seu portfólio, que você já desenvolveu o backend utilizando o Node.js, e no último desafio em ReactJS.
 
-# 🚧 Projeto 
+# 🚧 Projeto
 <div align="center">
     <img alt="1" title="RN1" src=".github/1.jfif" width='250px'/>
     <img alt="2" title="RN2" src=".github/2.jfif" width='250px'/>
